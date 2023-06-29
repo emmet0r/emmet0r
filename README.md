@@ -5,4 +5,4 @@
 - 👯 I’m looking to collaborate on student mentorship programs in open source!
 - 📫 How to reach me: emme@soe.ucsc.edu
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I live in the Santa Cruz Mountains and love exploring with my pup, Daphne
+- ⚡ Fun fact: I live in the Santa Cruz Mountains and love exploring with my pup, Daphne.
