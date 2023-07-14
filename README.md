@@ -5,5 +5,5 @@
 - 👩‍💻 I'm also working with Indian Institute of Technology (BHU) Varanasi student [@Nandinisaagar](https://github.com/Nandinisaagar) on open source outreach to high school students
 - 🌱 In my free time, I’m learning how to build acoustic guitars 🤘
 - 👯 I’m looking to collaborate on making open source more inclusive & supporting diverse student engagement!
-- ⚡️ Fun facts: I live in the Santa Cruz Mountains and love exploring with my pup, Daphne. I also build handwound guitar pickups and play/watch live music whenever I can
+- ⚡️ Fun facts: I live in the Santa Cruz Mountains and love exploring with my pup, Daphne + I also build handwound guitar pickups and play/watch live music whenever I can
 - 📫 You can reach me at: emme@soe.ucsc.edu
