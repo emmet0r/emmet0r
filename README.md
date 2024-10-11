@@ -7,4 +7,4 @@
 - 👯 I’m looking to collaborate on making open source more inclusive & supporting diverse student engagement 💫
 - ⚡️ Fun facts: I live in the Santa Cruz Mountains and love exploring with my pup, Daphne + I also build handwound guitar pickups and play/watch live music whenever I can
 - 📫 You can reach me at: elovell@ucsc.edu
-[![An image of @emmet0r's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emmet0r)](https://holopin.io/@emmet0r)
+<!-- [![An image of @emmet0r's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emmet0r)](https://holopin.io/@emmet0r) -->
