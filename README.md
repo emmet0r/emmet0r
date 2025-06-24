@@ -12,6 +12,6 @@
 [@jakbrownbytes](https://github.com/jakbrownbytes) • [@purpleskates123](https://github.com/purpleskates123) • [@awood0727](https://github.com/awood0727) • [@kailealee](https://github.com/kailealee) • [@dcaine125](https://github.com/dcaine125) • [@devon3583](https://github.com/devon3583) • [@npNSU](https://github.com/npNSU) • [@kaybcodes](https://github.com/kaybcodes)
 
 #### Past Mentees
-[@Nandinisaagar](https://github.com/Nandinisaagar) • [@Jordin221](https://github.com/Jordin221/) • [@klbynum](https://github.com/klbynum) • [@Wavyeli32](https://github.com/Wavyeli32) • [@JeremiahAHoward](https://github.com/JeremiahAHoward) • [@thatguyseven](https://github.com/thatguyseven/) • [@snwarner22](https://github.com/snwarner22) • [@OnexiMedina](https://github.com/OnexiMedina) • [@SilasVM](https://github.com/SilasVM) (who's returned to Contributot Catalyst *twice* as an alumni mentor ✨)
+[@Nandinisaagar](https://github.com/Nandinisaagar) • [@Jordin221](https://github.com/Jordin221/) • [@klbynum](https://github.com/klbynum) • [@Wavyeli32](https://github.com/Wavyeli32) • [@JeremiahAHoward](https://github.com/JeremiahAHoward) • [@thatguyseven](https://github.com/thatguyseven/) • [@snwarner22](https://github.com/snwarner22) • [@OnexiMedina](https://github.com/OnexiMedina) • [@SilasVM](https://github.com/SilasVM) (who's returned to Contributor Catalyst *twice* as an alumni mentor ✨)
 
 <!-- [![An image of @emmet0r's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/emmet0r)](https://holopin.io/@emmet0r) -->
